@@ -1,3 +1,5 @@
-Piechowiak Agnieszka
-Anna Pawłowska-Zygarowicz
-Konrad Pierzyński
+# Paczkomaty
+### Autorzy:
+* Agnieszka Piechowiak
+* Anna Pawłowska-Zygarowicz
+* Konrad Pierzyński
